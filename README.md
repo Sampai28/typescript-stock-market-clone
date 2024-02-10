@@ -1,9 +1,9 @@
 # TypeScript Stock Buy/Sell Dashboard - demo
 
-This repository contains two React Native screens:
+This repository contains two screens:
 
 1. **Tab One Screen**:
-   - This screen represents a live market dashboard.
+   - This screen represents a market dashboard.
    - Users can view randomly generated stock prices and add them to a cart.
    - Stocks can be added to the cart by pressing the "Buy" button and removed by pressing the "Sell" button.
    - The total value of items in the cart is displayed.
